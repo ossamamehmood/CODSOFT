@@ -3,5 +3,5 @@
 
 
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./.task submission/2.gif">
+  <img alt="" style="{max-height: 20px}" src="./Task Submission/2.gif">
 </p>
